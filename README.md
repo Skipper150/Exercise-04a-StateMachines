@@ -12,4 +12,6 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+James Galyen
+
+I don't know why the camera doesn't follow the player but it was broken at the start of the project 
